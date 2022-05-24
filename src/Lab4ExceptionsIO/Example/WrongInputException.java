@@ -1,4 +1,4 @@
-package Lab4ExceptionsIO.ExceptionExample;
+package Lab4ExceptionsIO.Example;
 
 public class WrongInputException extends Exception {
     public WrongInputException(int i) {

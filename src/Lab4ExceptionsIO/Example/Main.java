@@ -1,4 +1,4 @@
-package Lab4ExceptionsIO.ExceptionExample;
+package Lab4ExceptionsIO.Example;
 
 public class Main {
     public static void main(String[] args) throws Exception {

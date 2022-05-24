@@ -1,4 +1,4 @@
-package Lab4ExceptionsIO.ExceptionExample;
+package Lab4ExceptionsIO.Example;
 
 public class FatalException extends RuntimeException {
     public FatalException() {
