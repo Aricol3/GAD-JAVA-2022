@@ -56,7 +56,7 @@
       <recent name="C:\JetBrains\GAD-JAVA2022\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TemperatureApp">
+  <component name="RunManager" selected="Application.MainApp">
     <configuration name="Da" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lab9Reactive.Da" />
       <module name="GAD-JAVA2022" />
@@ -83,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab7Concurrency.Ch3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab7Concurrency.Ch3.Main" />
+    <configuration name="LambdaMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab8Functional.Ch3.LambdaMain" />
       <module name="GAD-JAVA2022" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lab7Concurrency.Ch3.*" />
+          <option name="PATTERN" value="Lab8Functional.Ch3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LambdaMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab8Functional.Ch3.LambdaMain" />
+    <configuration name="MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FinalProjects.Observer.MainApp" />
       <module name="GAD-JAVA2022" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lab8Functional.Ch3.*" />
+          <option name="PATTERN" value="FinalProjects.Observer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainApp" />
         <item itemvalue="Application.TemperatureApp" />
         <item itemvalue="Application.Da" />
         <item itemvalue="Application.FluxInReactor" />
         <item itemvalue="Application.LambdaMain" />
-        <item itemvalue="Application.Lab7Concurrency.Ch3.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -159,7 +159,7 @@
       <workItem from="1653412050394" duration="188000" />
       <workItem from="1653412252842" duration="52000" />
       <workItem from="1653424717818" duration="24000" />
-      <workItem from="1653424757074" duration="1269000" />
+      <workItem from="1653424757074" duration="4135000" />
     </task>
     <servers />
   </component>
