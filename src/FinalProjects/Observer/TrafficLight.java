@@ -23,7 +23,7 @@ public class TrafficLight extends Observable {
         return timer;
     }
 
-    public void setTimer( final int timer) {
+    public void setTimer(final int timer) {
         this.timer = timer;
     }
 

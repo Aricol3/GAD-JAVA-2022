@@ -19,7 +19,7 @@ public class PairOf2 {
         return counter;
     }
 
-    public static void main(String [] args) {
+    public static void main(String[] args) {
 
         int A[] = {5, 9, -5, 7, -5};
         int x = 0;

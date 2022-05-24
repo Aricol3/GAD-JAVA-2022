@@ -16,7 +16,7 @@ public class Driver implements Observer {
 
     @Override
     public void update(Observable o, Object arg) {
-        if(arg.equals("red")) {
+        if (arg.equals("red")) {
             this.speed = 0;
             System.out.println("CAR " + registrationNumber + ", STOP!");
         } else if (arg.equals("yellow")) {
