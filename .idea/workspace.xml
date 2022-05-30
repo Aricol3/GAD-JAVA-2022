@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd43717b-7e68-4418-b647-28796a174ca6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GAD-JAVA-2022" beforeDir="false" afterPath="$PROJECT_DIR$/GAD-JAVA-2022" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GAD-JAVA-2022/src/Lab4ExceptionsIO/ExceptionExample/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/GAD-JAVA-2022/src/Lab4ExceptionsIO/ExceptionExample/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GAD-JAVA-2022/src/Lab4ExceptionsIO/ExceptionExample/FatalException.java" beforeDir="false" afterPath="$PROJECT_DIR$/GAD-JAVA-2022/src/Lab4ExceptionsIO/ExceptionExample/FatalException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GAD-JAVA-2022/src/Lab4ExceptionsIO/ExceptionExample/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/GAD-JAVA-2022/src/Lab4ExceptionsIO/ExceptionExample/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GAD-JAVA-2022/src/Lab4ExceptionsIO/ExceptionExample/WrongInputException.java" beforeDir="false" afterPath="$PROJECT_DIR$/GAD-JAVA-2022/src/Lab4ExceptionsIO/ExceptionExample/WrongInputException.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,7 +166,7 @@
       <workItem from="1653412252842" duration="52000" />
       <workItem from="1653424717818" duration="24000" />
       <workItem from="1653424757074" duration="4387000" />
-      <workItem from="1653429357957" duration="308000" />
+      <workItem from="1653429357957" duration="444000" />
     </task>
     <servers />
   </component>
